@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CovidAnalytics</string>
+    <string name="tab_case_time_series">Case Time Series Wise</string>
+    <string name="tab_state_wise">State Wise</string>
+    <string name="tab_tested_wise">Tested Wise</string>
+
+</resources>

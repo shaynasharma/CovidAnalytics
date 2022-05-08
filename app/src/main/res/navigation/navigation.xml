@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/main">
+
+    <fragment
+        android:id="@+id/main"
+        android:name="com.shayna.covidanalytics.ui.CovidAnalyticsFragment"
+        android:label="Covid Analytics"
+        tools:layout="@layout/fragment_main">
+
+    </fragment>
+
+
+</navigation>
